@@ -2,5 +2,5 @@ Documentation   Automation Facebook
 
 *** Test Cases ***
 Logout
-  [Documentation]  Automation Logou Facebook
+  [Documentation]  Automation Logout Facebook
   Go To  www.google.com
