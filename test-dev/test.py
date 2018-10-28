@@ -1,2 +1,2 @@
-def test(test, self):
-  return test;
+def test(time):
+  return time;
